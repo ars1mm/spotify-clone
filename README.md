@@ -1,5 +1,6 @@
-<h1 align="center">Spotify Clone</h1>
+<h1 align="center">Spotify Clone<
 ![alt text](https://github.com/ars1mm/spotify-clone/blob/main/readme_pic.PNG)
+</h1>
 Clone the repository using
 ```bash
 git clone https://github.com/ars1mm/spotify-clone.git
