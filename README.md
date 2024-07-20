@@ -1,4 +1,4 @@
-Spotify Clone
+# Spotify Clone
 ![alt text](https://github.com/ars1mm/spotify-clone/blob/main/readme_pic.PNG)
 
 Clone the repository using
