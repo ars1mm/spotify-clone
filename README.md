@@ -4,15 +4,15 @@
 ![alt text](https://github.com/ars1mm/spotify-clone/blob/main/readme_pic.PNG)
 
 Clone the repository using
-```bash
+```powershell
 git clone https://github.com/ars1mm/spotify-clone.git
 ```
 To run the project first install the dependencies 
-```bash
+```powershell
 npm install
 ```
 To run the project use
-```bash
+```powershell
 npm run dev
 ```
 The Dependencies are
